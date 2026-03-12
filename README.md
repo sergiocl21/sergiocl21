@@ -20,3 +20,14 @@ Actualmente estoy aprendiendo desarrollo backend con PHP y MySQL y construyendo 
 ## Objetivo
 
 Busco mi primera oportunidad como desarrollador backend junior para seguir creciendo profesionalmente.
+
+## Capturas del sistema
+
+### Lista de contactos
+![Lista](screenshots/lista.png)
+
+### Crear contacto
+![Crear](screenshots/create.png)
+
+### Editar contacto
+![Editar](screenshots/edit.png)
