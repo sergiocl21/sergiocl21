@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hola, soy Sergio Calderon 
 
-<!--
-**sergiocl21/sergiocl21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tecnólogo en Análisis y Desarrollo de Software (SENA).
 
-Here are some ideas to get you started:
+Actualmente estoy aprendiendo desarrollo backend con PHP y MySQL y construyendo proyectos para fortalecer mi portafolio.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologías que estoy aprendiendo
+
+- PHP
+- MySQL
+- Git y GitHub
+- XAMPP
+- HTML y CSS
+
+## Proyectos
+
+- CRUD PHP + MySQL  
+  https://github.com/sergiocl21/php-mysql-crud
+
+## Objetivo
+
+Busco mi primera oportunidad como desarrollador backend junior para seguir creciendo profesionalmente.
