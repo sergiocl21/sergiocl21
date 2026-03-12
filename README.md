@@ -24,10 +24,10 @@ Busco mi primera oportunidad como desarrollador backend junior para seguir creci
 ## Capturas del sistema
 
 ### Lista de contactos
-![Lista](screenshots/lista.png)
+![Lista](https://raw.githubusercontent.com/sergiocl21/php-mysql-crud/main/screenshots/lista.png)
 
 ### Crear contacto
-![Crear](screenshots/create.png)
+![Crear](https://raw.githubusercontent.com/sergiocl21/php-mysql-crud/main/screenshots/create.png)
 
 ### Editar contacto
-![Editar](screenshots/edit.png)
+![Editar](https://raw.githubusercontent.com/sergiocl21/php-mysql-crud/main/screenshots/edit.png)
