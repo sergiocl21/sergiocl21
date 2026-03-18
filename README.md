@@ -2,24 +2,63 @@
 
 Tecnólogo en Análisis y Desarrollo de Software (SENA).
 
-Actualmente estoy aprendiendo desarrollo backend con PHP y MySQL y construyendo proyectos para fortalecer mi portafolio.
+Actualmente estoy enfocado en desarrollo backend y automatización de datos, construyendo proyectos reales para fortalecer mi perfil profesional.
 
-## Tecnologías que estoy aprendiendo
+## Tecnologías y heramientas
 
+### Backend
 - PHP
 - MySQL
-- Git y GitHub
+-phpMyAdmin
+
+### Automatización y datos
+- Python
+- pandas
+- Excel
+
+  ### Herramientas
+- Git
+- GitHub
 - XAMPP
-- HTML y CSS
+- Visual Studio Code
 
-## Proyectos
+### Frontend básico
+- HTML
+- CSS
+- Bootstrap
 
-- CRUD PHP + MySQL  
-  https://github.com/sergiocl21/php-mysql-crud
+## Proyectos destacados
 
-## Objetivo
+- CRUD PHP + MySQL
+- Aplicación web con operaciones CRUD completas.
 
-Busco mi primera oportunidad como desarrollador backend junior para seguir creciendo profesionalmente.
+-Coneción  a base de datos 
+-Gestión de registros
+-Interfaz con Bootstrap
+ https://github.com/sergiocl21/php-mysql-crud
+
+ ### Automatización de Execel con Python
+ Script para procesamiento y análisis básico de ventas.
+
+ -Lectura de excel con pandas
+ -Validación de datos
+ -Cálculo de totales
+ -Generación de estadísticas
+ -Resumen por cliente
+ -Top 3 de clientes por ventas
+ https://github.com/sergiocl21/python-excel-automation
+
+## Objetivo profesional
+Busco mi primera oportunidad como:
+-Desarrollador backend junior (PHP / MySQL)
+-Desarrollador Web WordPress Junior
+-Automatización y análisis básico de datos con Python
+
+## Actualmente estoy aprendiendo
+
+-Laravel(backend profesional con PHP)
+-Mejores prácticas en desarrollo backend
+-Análisis de datos con Python
 
 ## Capturas del sistema
 
