@@ -7,7 +7,7 @@ Actualmente construyendo proyectos reales para fortalecer mi portafolio y buscar
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+##  Tecnologías y herramientas
 
 ### Backend
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
@@ -34,7 +34,7 @@ Actualmente construyendo proyectos reales para fortalecer mi portafolio y buscar
 
 ---
 
-## 🚀 Proyectos destacados
+##  Proyectos destacados
 
 ### 🔐 [login-php-mysql](https://github.com/sergiocl21/login-php-mysql)
 Sistema completo de autenticación de usuarios con PHP y MySQL.
